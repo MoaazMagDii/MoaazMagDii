@@ -33,11 +33,11 @@ Software Engineer focused on backend development and Cloud Computing.
 
 ## 🏆 Awards
 
-- Huawei ICT Competition 2022
+- Huawei ICT Competition 2022,
     Achieved the Bronze Medal in the Cloud Computing track out of 1000+ participants.
-- ECPC Qualifications Contest 2023
+- ECPC Qualifications Contest 2023,
     Ranked 1st place among university teams and 4th place among 200+ teams.
-- Graduated with a GPA of 3.74
+- Graduated with a GPA of 3.74,
     recognized among the top-performing students in the 2024 graduating class.
 
 --
