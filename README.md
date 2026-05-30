@@ -4,7 +4,7 @@ Software Engineer focused on backend development and Cloud Computing.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - Backend Development (Node.js, .NET, Express.js, Nest.js)
 - Cloud and DevOps (Docker, Kubernetes, CI/CD, AWS, Azure)
@@ -14,7 +14,7 @@ Software Engineer focused on backend development and Cloud Computing.
 
 ---
 
-## 📌 Focus Areas
+## Focus Areas
 
 - Backend Development
 - System Design Fundamentals
@@ -23,15 +23,7 @@ Software Engineer focused on backend development and Cloud Computing.
 
 ---
 
-## 📈 Current Goals
-
-- Strengthening backend engineering skills
-- Preparing for backend roles in international companies
-- Improving system design knowledge
-
----
-
-## 🏆 Awards
+## Awards
 
 - Huawei ICT Competition 2022,
     Achieved the Bronze Medal in the Cloud Computing track out of 1000+ participants.
@@ -41,6 +33,6 @@ Software Engineer focused on backend development and Cloud Computing.
     recognized among the top-performing students in the 2024 graduating class.
 
 --
-## 📫 Contact
+## Contact
 
 - Email: moaazmagdii@gmail.com
