@@ -8,7 +8,7 @@ Software Engineer focused on backend development and Cloud Computing.
 
 - Backend Development (Node.js, .NET, Express.js, Nest.js)
 - Cloud and DevOps (Docker, Kubernetes, CI/CD, AWS, Azure)
-- Databases (SQL Server, SQLite, MongoDB, Entity Framework, Mongoose
+- Databases (SQL Server, SQLite, MongoDB, Entity Framework, Mongoose)
 - Programming Languages (C++, C#, Java, TypeScript)
 - Tools  (Git & GitHub, Jira)
 
